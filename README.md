@@ -3,10 +3,10 @@ A bike-sharing system is a service in which bikes are made available for shared 
 
 
 ## Table of Contents
-* [General Info]:
+* ### General Info:
  Model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
  
-* [Technologies Used]:
+* ### Technologies Used:
 1.	pandas
 2.	numpy
 3.	seaborn
@@ -14,7 +14,7 @@ A bike-sharing system is a service in which bikes are made available for shared 
 5.	Sklearn
 6.	statsmodels
 
-* [Conclusions]:
+* ### Conclusions:
 The demand for bikes is high during below situations:
 1) Temperature conditions are better (i.e. in the range of 10 to 30)
 2) Windspeed is less (since there is a negative correlation with windspeed)
@@ -24,5 +24,5 @@ The demand for bikes is high during below situations:
 6) There is negative correlation of bike sharing during misty climate because people fear accidents due to bad vision during foggy climate.
 7) Also, we can see a negative correlation of bike sharing during light snow rains.
 
-* [Acknowledgements]:
+* ### Acknowledgements:
 Aditya B
